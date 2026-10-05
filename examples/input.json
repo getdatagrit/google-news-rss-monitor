@@ -1,0 +1,11 @@
+{
+  "queries": [
+    "openai",
+    "\"electric vehicles\""
+  ],
+  "editions": [
+    "US:en"
+  ],
+  "timeRange": "1d",
+  "maxItems": 20
+}
